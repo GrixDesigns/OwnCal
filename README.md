@@ -1,6 +1,16 @@
+![SimpleCal](images/feature-graphic-1024x500.png)
+
 # SimpleCal
 
 A fast, private calorie tracker. No ads, no accounts, no analytics — your data never leaves your phone.
+
+<table>
+  <tr>
+    <td align="center"><img src="images/1-today.png" alt="Today view" width="280"/><br/>Today view</td>
+    <td align="center"><img src="images/2-quick-add.png" alt="Quick add" width="280"/><br/>Quick add</td>
+    <td align="center"><img src="images/5-weekly.png" alt="Weekly history" width="280"/><br/>Weekly history</td>
+  </tr>
+</table>
 
 ## What it does
 

@@ -24,7 +24,7 @@ A fast, private calorie tracker. No ads, no accounts, no analytics — your data
 
 OwnCal collects no data. There is no account, and no server of ours that the app talks to. Everything is stored locally on your device, and you can export it or delete it at any time.
 
-[Read the full privacy policy →](https://github.com/GrixDesigns/OwnCal/wiki/Privacy-Policy)
+[Read the full privacy policy →](https://github.com/GrixDesigns/OwnCal/wiki/OwnCal-Privacy-Policy)
 
 ## Get the app
 
@@ -32,4 +32,4 @@ SimpleCal is available on [Google Play](https://play.google.com/store/apps/detai
 
 ---
 
-This repository intentionally contains no code — it exists to host the SimpleCal privacy policy in the [wiki](https://github.com/GrixDesigns/OwnCal/wiki).
+This repository intentionally contains no code — it exists to host the SimpleCal privacy policy in the [wiki](https://github.com/GrixDesigns/OwnCal/wiki/OwnCal-Privacy-Policy).

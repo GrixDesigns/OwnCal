@@ -28,8 +28,8 @@ OwnCal collects no data. There is no account, and no server of ours that the app
 
 ## Get the app
 
-SimpleCal is available on [Google Play](https://play.google.com/store/apps/details?id=com.grixdesigns.owncal).
+OwnCal is available on [Google Play](https://play.google.com/store/apps/details?id=com.grixdesigns.owncal).
 
 ---
 
-This repository intentionally contains no code — it exists to host the SimpleCal privacy policy in the [wiki](https://github.com/GrixDesigns/OwnCal/wiki/OwnCal-Privacy-Policy).
+This repository intentionally contains no code — it exists to host the Owncal privacy policy in the [wiki](https://github.com/GrixDesigns/OwnCal/wiki/OwnCal-Privacy-Policy).
